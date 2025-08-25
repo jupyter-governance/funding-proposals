@@ -10,3 +10,7 @@ This repository is a home for issues for coordinating writing around Jupyter Fou
 ## How to increase the chance of getting funding
 
 See [these tips for writing a proposal](https://jupyter-governance.github.io/jupyter-foundation-governing-board/funding/process/#tips-for-writing-a-proposal).
+
+## Where proposals are tracked
+
+We use [this proposal tracking board](https://github.com/orgs/jupyter-governance/projects/13) to track proposals.
