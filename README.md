@@ -1,3 +1,8 @@
 # Jupyter Foundation Funding Proposals
 
-This repo provides a home for issues that explore Jupyter Foundation funding proposals. See https://compass.jupyterfoundation.org/funding/process/ for more information.
+This repository is a home for issues for coordinating writing around Jupyter Foundation funding proposals. See https://compass.jupyterfoundation.org/funding/process/ for more information.
+
+## How to submit a proposal
+
+1. [Open an issue here](https://github.com/jupyter-governance/funding-proposals/issues/new/choose)
+2. Follow [the proposal process here](https://compass.jupyterfoundation.org/funding/process/)
