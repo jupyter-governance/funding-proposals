@@ -6,3 +6,7 @@ This repository is a home for issues for coordinating writing around Jupyter Fou
 
 1. [Open an issue here](https://github.com/jupyter-governance/funding-proposals/issues/new/choose)
 2. Follow [the proposal process here](https://compass.jupyterfoundation.org/funding/process/)
+
+## How to increase the chance of getting funding
+
+See [these tips for writing a proposal](https://jupyter-governance.github.io/jupyter-foundation-governing-board/funding/process/#tips-for-writing-a-proposal).
