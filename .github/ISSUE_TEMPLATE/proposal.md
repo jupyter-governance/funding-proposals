@@ -1,6 +1,6 @@
 ---
 name: Proposal
-about: Submit a funding proposal for the Jupyter project
+about: Submit a funding proposal to the Jupyter Foundation
 labels: ['proposal']
 assignees: ''
 ---
@@ -8,6 +8,8 @@ _This is a discussion and tracking issue for a Jupyter Foundation proposal, use 
 
 ## One sentence summary
 <!-- Provide a summary of the outcome(s) this proposal aims to achieve. -->
+
+
 
 ## Link to proposal text
 <!--
