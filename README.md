@@ -14,3 +14,7 @@ See [these tips for writing a proposal](https://jupyter-governance.github.io/jup
 ## Where proposals are tracked
 
 We use [this proposal tracking board](https://github.com/orgs/jupyter-governance/projects/13) to track proposals.
+
+## Where is this process defined?
+
+The [funding process page](https://compass.jupyterfoundation.org/funding/process/) on the Foundation team compass is the source of truth for this process.
