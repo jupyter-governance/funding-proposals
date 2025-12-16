@@ -22,7 +22,7 @@ PMO will send a reminder a week before each reporting month
 
 1. Copy the file named: report-template.md
 2. Create a new file named: YYYY-MM-report.md Example: 2025-02-report.md
-3. Fill in the template (should take 3–5 minutes).
+3. Fill in the template.
 4. Submit a Pull Request titled: [Report] Award Title – YYYY-MM
 5. We will review and merge your PR.
 
