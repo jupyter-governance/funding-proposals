@@ -8,6 +8,4 @@
 
 ## Budget Update
 
-## Funds Used / Remaining Budget
-
 ## Next Steps
