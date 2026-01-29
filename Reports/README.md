@@ -14,17 +14,16 @@ Each folder contains:
 
 ## Reporting Schedule
 
-Reports are required every other month for the duration of the funded work. Due on the second to last Thursday of the month. 
-
-PMO will send a reminder a week before each reporting month
+Reports are required every other month for the duration of the funded work. Due on the last Thursday of the month. 
 
 ## How to Submit Your Report
 
-1. Copy the file named: report-template.md
-2. Create a new file named: YYYY-MM-report.md Example: 2025-02-report.md
-3. Fill in the template.
-4. Submit a Pull Request titled: [Report] Award Title – YYYY-MM
-5. We will review and merge your PR.
+1. Copy the [report-template.md](http://Reports/2025_cycle_1/report-template.md)
+2. Create a new file named: YYYY-MM-report.md _(Example: 2025-02-report.md)_
+3. Fill out the template
+4. Submit a Pull Request
+
+The Governing Board subcommittee will perform a review and merge your PR.
 
 All reporting happens publicly in GitHub to ensure transparency and a consistent record of progress.
 
