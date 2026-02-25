@@ -18,7 +18,7 @@ Reports are required every other month for the duration of the funded work. Due 
 
 ## How to Submit Your Report
 
-1. Copy the [report-template.md](http://Reports/2025_cycle_1/report-template.md)
+1. Copy the [report-template.md](./2025_cycle_1/report-template.md)
 2. Create a new file named: YYYY-MM-report.md _(Example: 2025-02-report.md)_
 3. Fill out the template
 4. Submit a Pull Request
