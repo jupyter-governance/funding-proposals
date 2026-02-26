@@ -1,0 +1,33 @@
+# Report Template
+---
+## Summary of Work Completed
+
+TBD
+
+## Deliverables/Milestones
+
+> Metric 1. The time to run playwright tests on the JupyterLab repo should reduce from current 45 minutes down to ~20 minutes.
+
+Achieved: the runtime is now on the order of 15 mintues.
+
+> Metric 2. The snapshot updates should no longer require a multi-step manual process that can be performed only by maintainers but instead allow every contributor to trigger an update of the snapshots. It should be near instantaneous (<5 minutes) once the regression testing is completed by reusing the published artifacts.
+
+Achieved, although:
+- the documentation snapshots are not yet coevered
+- the workflow runs require approval while it matures
+
+> Metric 3. >90% of tests should pass when run on a non-Ubuntu machine
+
+Work in progress. >95% tests pass on CI between different Ubuntu versions.
+
+## Challenges or Risks
+
+## Budget Update
+
+As of 20th Feb 2026 we used 7,507.50 USD out of 16,182 USD budget.
+
+## Next Steps
+
+- Fixing the fonts to ensure cross-platform reproducibility
+- Further fixes to snapshot differences caused by local installation differences
+- Merging snapshot jobs for documentation with the sharded jobs for other packages

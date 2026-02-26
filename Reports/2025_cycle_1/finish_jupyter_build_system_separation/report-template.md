@@ -1,0 +1,32 @@
+# Report Template
+---
+## Summary of Work Completed
+
+- CI was updated and bundled package manager issues were fixed
+- The PyPI package was transferred to Project Jupyter
+- A new version of the jupyter-builder was released
+- Initial support for full decoupling from JupyterLab dependency was merged
+- Future directions were agreeed with the community feedback on:
+  - naming of the package
+  - transition to rspack
+  - the way of obtaining the core metadata required for build
+
+## Deliverables/Milestones
+
+- A stable version of jupyter-builder is published: first functional (although not yet stable) version was published
+- Integrating into the JupyterLab core and extension template: a draft PR was opened against the extension-template repository
+
+## Challenges or Risks
+
+Since the proposal was written the bundler in core JupyterLab was swapped from webpack to rspack.
+This requires additional work to catch up and (potentially) support both bundlers initially.
+
+## Budget Update
+
+As of 20th Feb 2026 we used 817 USD out of 14,904 USD budget.
+
+## Next Steps
+
+- Creation of documentation of jupyter-builder and documenting migration in JupyterLab documentationn
+- Migration to rspack
+- Publishing core package metadata for future and past supporter JupyterLab releases
