@@ -2,7 +2,11 @@
 ---
 ## Summary of Work Completed
 
-TBD
+- Sharding for faster visual regression/integration tests ([merged](https://github.com/jupyterlab/jupyterlab/pull/18427))
+- Fixes to many flaky tests and tests which were failing locally (many PRs merged), but more work to be done
+- Workflow for updating visual regression snapshots from artifacts ([merged](https://github.com/jupyterlab/jupyterlab/pull/18559))
+
+
 
 ## Deliverables/Milestones
 
