@@ -4,6 +4,8 @@
 
 No work has been completed yet. We allocated time to commence work in early March 2026.
 
+We track some of the issues and pull requests associated with this proposal in [this public GitHub project](https://github.com/orgs/jupyterlab/projects/12/views/4?sliceBy%5Bvalue%5D=playground).
+
 ## Deliverables/Milestones
 
 NA
