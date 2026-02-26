@@ -6,7 +6,7 @@
 - Fixes to many flaky tests and tests which were failing locally (many PRs merged), but more work to be done
 - Workflow for updating visual regression snapshots from artifacts ([merged](https://github.com/jupyterlab/jupyterlab/pull/18559))
 
-
+We track some of the issues and pull requests associated with this proposal in [this public GitHub project](https://github.com/orgs/jupyterlab/projects/12/views/4?sliceBy%5Bvalue%5D=visual+testing).
 
 ## Deliverables/Milestones
 
