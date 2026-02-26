@@ -7,7 +7,7 @@
 
 ## Deliverables/Milestones
 
-- Goal: revelop and maintain custom ESLint rules tailored to the JupyterLab/Notebook codebase.
+- Goal: develop and maintain custom ESLint rules tailored to the JupyterLab/Notebook codebase.
    - The plugin now exists, is pending transfer to JupyterLab-governed repository
 - Impact Metric: Adoption of the additional rules by the community
     - Multiple community members expressed interest in adopting the eslint
