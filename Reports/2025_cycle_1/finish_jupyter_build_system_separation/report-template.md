@@ -11,6 +11,8 @@
   - transition to rspack
   - the way of obtaining the core metadata required for build
 
+We track some of the issues and pull requests associated with this proposal in [this public GitHub project](https://github.com/orgs/jupyterlab/projects/12/views/4?sliceBy%5Bvalue%5D=jupyter-builder).
+
 ## Deliverables/Milestones
 
 - A stable version of jupyter-builder is published: first functional (although not yet stable) version was published
