@@ -26,6 +26,10 @@ Work in progress. >95% tests pass on CI between different Ubuntu versions.
 
 ## Challenges or Risks
 
+We did not find a way to make snapshots identical without requiring an update to the existing ones.
+This means that while the goal can be achieved, there will be an initial cost to migrate (update all snapshots).
+This should not be too difficult and would be required when migating to new Ubuntu runners anyways.
+
 ## Budget Update
 
 As of 20th Feb 2026 we used 7,507.50 USD out of 16,182 USD budget.
