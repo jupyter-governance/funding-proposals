@@ -7,7 +7,7 @@
   "scripts": {
     "aggregate": "node scripts/aggregate_reports.mjs",
     "build": "node scripts/aggregate_reports.mjs && cd docs && myst build --html",
-    "start": "node scripts/aggregate_reports.mjs && cd docs && myst start"
+    "start": "node --watch-path=Reports scripts/aggregate_reports.mjs & cd docs && myst start"
   },
   "dependencies": {
     "myst-parser": "^1.5.0",
