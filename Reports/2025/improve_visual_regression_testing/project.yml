@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=../../project.schema.json
 title: Improve Visual Regression Testing
 proposal_issue: https://github.com/jupyter-governance/funding-proposals/issues/7
-status: In Progress
+status: Done
 funding_round: "2025"
 reports: "*-report.md"
